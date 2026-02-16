@@ -14,3 +14,10 @@ def respond(msg: str) -> str:
         return "Hi"
     else:
         raise ValueError(f"Unsupported message: {msg}")
+
+def show():
+    print("Hello,World!")
+    
+def kasosuta():
+    print("kasosuta Good")
+    
