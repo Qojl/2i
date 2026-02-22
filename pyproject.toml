@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name ="2i"
-version = "0.1.1"
+version = "0.1.2"
 description = "Simple HiHello responder library"
 authors = [{name="Oywe", email="ncql@proton.me"}]
 readme = "README.md"
