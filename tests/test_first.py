@@ -1,4 +1,4 @@
-from HiHello import respond
+from 0c import respond
 import pytest
 
 def test_hi():
